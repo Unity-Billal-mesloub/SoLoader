@@ -39,5 +39,3 @@ Please use our [issues page](https://github.com/facebook/soloader/issues) to let
 See the [CONTRIBUTING](https://github.com/facebook/soloader/blob/main/CONTRIBUTING.md) file for how to
 help out.
 
-## License
-SoLoader is [Apache-2.0-licensed](https://github.com/facebook/soloader/blob/main/LICENSE).
